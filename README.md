@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Aleksei 👋
+# Hi there, I'm Aleksei Tikhomirov 👋
 
 ### PHP & Laravel Developer • Creator of [rwsite.ru](https://rwsite.ru)
 
